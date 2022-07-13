@@ -16,6 +16,11 @@ hash = "14b1a9c6c6f2a0c87189602f9ccce3e3535bab850a0c93e1467312ff5dd1cd86"
 metafile = true
 
 [[files]]
+file = "mods/architectury-api.pw.toml"
+hash = "5f92380ca786cd96438d67661e656547ce89d02b19bafe1c71031fbf2ca0bf98"
+metafile = true
+
+[[files]]
 file = "mods/axes-are-weapons.pw.toml"
 hash = "aca3f83f2545b655b24e6807a11ebe5f161c5beed8828d35493fd3b546bbc86e"
 metafile = true
