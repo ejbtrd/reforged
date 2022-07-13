@@ -1,1 +1,106 @@
 hash-format = "sha256"
+
+[[files]]
+file = "mods/additional-additions-forge.pw.toml"
+hash = "3986ffbaaddfb4a97d826e37bbc9a734724074679c7a9fe1ff4de9d0eca2abcb"
+metafile = true
+
+[[files]]
+file = "mods/annotated-di-forge.pw.toml"
+hash = "63d1435c4086cc81b1015b81b722f226e99b6d67276adfe85350abc7c8526c79"
+metafile = true
+
+[[files]]
+file = "mods/appleskin.pw.toml"
+hash = "191b7a13538f73f7ca8553e4368d22e8675dcc6778df67e772f4e58b2fcd334a"
+metafile = true
+
+[[files]]
+file = "mods/axes-are-weapons.pw.toml"
+hash = "fcce0c35f7ddb7569a368432c7a7a64af4d5b67bf6c2f52e2eb0e2b91a2c9207"
+metafile = true
+
+[[files]]
+file = "mods/betterf3.pw.toml"
+hash = "cc049724d0f02b6208a9704ba3357c189d5966d7e4e7668016d42a3c5864ff4f"
+metafile = true
+
+[[files]]
+file = "mods/caelus.pw.toml"
+hash = "d327839546f676861ab40202cf9b1a20bea90950e80231e7df2f5631fa115bb3"
+metafile = true
+
+[[files]]
+file = "mods/cloth-config.pw.toml"
+hash = "91310bd661de6d8019a7a9d39c761d5005d1bd1bd9b4f0a7e49296640fe6a33f"
+metafile = true
+
+[[files]]
+file = "mods/create.pw.toml"
+hash = "d7bf70918b7b4f33fe50ca4f3b20cb6a3b5d49fa35ca58217190f579adac664a"
+metafile = true
+
+[[files]]
+file = "mods/debugify.pw.toml"
+hash = "04ad88c125584479f0854c74f13f7582a1ce20acf8a89e211cc991bd3780c61d"
+metafile = true
+
+[[files]]
+file = "mods/dynamic-lights.pw.toml"
+hash = "4a7d6830de80e0d466d9e5841916c02fbefd45b64a146ada34db7d5de97c2999"
+metafile = true
+
+[[files]]
+file = "mods/fireplace-lib-forge.pw.toml"
+hash = "ba9bfe733721b7fce942e0db2532fc04aaf9ac744cb52832657e933b9fe17a18"
+metafile = true
+
+[[files]]
+file = "mods/flywheel.pw.toml"
+hash = "1fb77b30bb9c670b722889ddf1c37854857b4f69e3f1b5dc00b56e70bf73d853"
+metafile = true
+
+[[files]]
+file = "mods/jei.pw.toml"
+hash = "3e963187c3f080269bc97d3a419ab4b8395bc9fcb86e413f39658cae659b0990"
+metafile = true
+
+[[files]]
+file = "mods/not-enough-animations.pw.toml"
+hash = "37e5260d712448aedead0286912d3453824d45effaef68364284afbff6c06909"
+metafile = true
+
+[[files]]
+file = "mods/origins-classes-forge.pw.toml"
+hash = "b1b777bdbd72ce68ea271678983e83a2c539bec5bd48e1c7b78b3f30fcfbe985"
+metafile = true
+
+[[files]]
+file = "mods/origins-forge.pw.toml"
+hash = "b69342578f4bbbb1cfa56fac4b2f57c7654de74bb01c49bd1cc49d6bb7bac219"
+metafile = true
+
+[[files]]
+file = "mods/starlight-forge.pw.toml"
+hash = "cf0274e0db473a80ea8d8442362d3e7e76639018504b9ff37fa61aa6044b8a60"
+metafile = true
+
+[[files]]
+file = "mods/twigs.pw.toml"
+hash = "51b7ba6e4a7c58cbbd28cc2ab96aa12b448afc835bb96a834ca7233b71ab16b5"
+metafile = true
+
+[[files]]
+file = "mods/unforgiving-void.pw.toml"
+hash = "250b6f1a441980a7dfb614a9621402a1bd8818ff4990652e2ec5114c318ba115"
+metafile = true
+
+[[files]]
+file = "mods/xaeros-minimap.pw.toml"
+hash = "34705769206c43cfec5efbdfa03e83c8e45760f01bef03148d9bfc2ccc0b7360"
+metafile = true
+
+[[files]]
+file = "mods/xaeros-world-map.pw.toml"
+hash = "1f8cc9461ca4df22deffc40d785cfde26f4e04e1a2759601d4638d84ceaa8f38"
+metafile = true
