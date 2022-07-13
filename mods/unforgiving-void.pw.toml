@@ -3,11 +3,11 @@ filename = "Unforgiving-Void-Forge-3.1.5+1.18.2.jar"
 side = "both"
 
 [download]
+url = "https://cdn.modrinth.com/data/LYliJ0jT/versions/3.1.5+1.18.2/Unforgiving-Void-Forge-3.1.5%2B1.18.2.jar"
 hash-format = "sha1"
 hash = "54f218de06bbb05208f3cb576ba43ab08672f7c8"
-mode = "metadata:curseforge"
 
 [update]
-[update.curseforge]
-file-id = 3856748
-project-id = 274863
+[update.modrinth]
+mod-id = "LYliJ0jT"
+version = "ze6TnX0J"

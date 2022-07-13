@@ -1,13 +1,13 @@
 name = "🪵 Twigs"
-filename = "twigs-forge-1.1.4-patch3+1.18.2.jar"
+filename = "twigs-forge-1.1.4+1.18.2.jar"
 side = "both"
 
 [download]
+url = "https://cdn.modrinth.com/data/RG50cUrX/versions/1.1.4+1.18.2/twigs-forge-1.1.4%2B1.18.2.jar"
 hash-format = "sha1"
-hash = "378e2da6a191f26290032c5f396963f39fd24496"
-mode = "metadata:curseforge"
+hash = "00e1f4f53e2a1ef026d44dc27ba852b9cbd208da"
 
 [update]
-[update.curseforge]
-file-id = 3756844
-project-id = 496913
+[update.modrinth]
+mod-id = "RG50cUrX"
+version = "N6JSh58p"

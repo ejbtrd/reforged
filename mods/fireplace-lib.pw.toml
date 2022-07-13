@@ -1,0 +1,13 @@
+name = "Fireplace Lib"
+filename = "Fireplace-Lib-Forge-7.0.1+1.18.2.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/ING0LAPF/versions/7.0.1+1.18.2/Fireplace-Lib-Forge-7.0.1%2B1.18.2.jar"
+hash-format = "sha1"
+hash = "4aedb18fc1a986bdfa04ac6a7060f0d20d2e5771"
+
+[update]
+[update.modrinth]
+mod-id = "ING0LAPF"
+version = "H97zqvIt"

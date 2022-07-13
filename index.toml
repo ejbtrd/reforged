@@ -1,28 +1,28 @@
 hash-format = "sha256"
 
 [[files]]
-file = "mods/additional-additions-forge.pw.toml"
-hash = "3986ffbaaddfb4a97d826e37bbc9a734724074679c7a9fe1ff4de9d0eca2abcb"
+file = "mods/addadd.pw.toml"
+hash = "5dac19e31a3f315c9ea761268ce63c8c1ba87b3b773e9b6827f5b4f66b59b24f"
 metafile = true
 
 [[files]]
-file = "mods/annotated-di-forge.pw.toml"
-hash = "63d1435c4086cc81b1015b81b722f226e99b6d67276adfe85350abc7c8526c79"
+file = "mods/annotated-di.pw.toml"
+hash = "2c293a5a3cd620cedc6cc07f3691f7d2b32cc2881a4cec82b321d7e343568cc1"
 metafile = true
 
 [[files]]
 file = "mods/appleskin.pw.toml"
-hash = "191b7a13538f73f7ca8553e4368d22e8675dcc6778df67e772f4e58b2fcd334a"
+hash = "14b1a9c6c6f2a0c87189602f9ccce3e3535bab850a0c93e1467312ff5dd1cd86"
 metafile = true
 
 [[files]]
 file = "mods/axes-are-weapons.pw.toml"
-hash = "fcce0c35f7ddb7569a368432c7a7a64af4d5b67bf6c2f52e2eb0e2b91a2c9207"
+hash = "aca3f83f2545b655b24e6807a11ebe5f161c5beed8828d35493fd3b546bbc86e"
 metafile = true
 
 [[files]]
 file = "mods/betterf3.pw.toml"
-hash = "cc049724d0f02b6208a9704ba3357c189d5966d7e4e7668016d42a3c5864ff4f"
+hash = "7da74fd4dc94275df9345369417dd6314076b69fb92a32846b9bb95f4e9eb0d4"
 metafile = true
 
 [[files]]
@@ -32,17 +32,17 @@ metafile = true
 
 [[files]]
 file = "mods/cloth-config.pw.toml"
-hash = "91310bd661de6d8019a7a9d39c761d5005d1bd1bd9b4f0a7e49296640fe6a33f"
+hash = "ee868e7edfb76bc7cc9e50970d33f37fbabbd5219b86fff38d9ec8e1bb15fd4a"
 metafile = true
 
 [[files]]
 file = "mods/create.pw.toml"
-hash = "d7bf70918b7b4f33fe50ca4f3b20cb6a3b5d49fa35ca58217190f579adac664a"
+hash = "70033587920b8d52692b85745093362a789c1167216bb79ebb7852d431e83598"
 metafile = true
 
 [[files]]
 file = "mods/debugify.pw.toml"
-hash = "04ad88c125584479f0854c74f13f7582a1ce20acf8a89e211cc991bd3780c61d"
+hash = "d32925cc3cd59d5dba62722f87e0efb4d149f45fd492f0374a72537c6ff99a75"
 metafile = true
 
 [[files]]
@@ -51,23 +51,18 @@ hash = "4a7d6830de80e0d466d9e5841916c02fbefd45b64a146ada34db7d5de97c2999"
 metafile = true
 
 [[files]]
-file = "mods/fireplace-lib-forge.pw.toml"
-hash = "ba9bfe733721b7fce942e0db2532fc04aaf9ac744cb52832657e933b9fe17a18"
+file = "mods/fireplace-lib.pw.toml"
+hash = "c8d076ba2b067ed7f151381293259b8df3118bffcffa42e9e298fa513f27ce82"
 metafile = true
 
 [[files]]
 file = "mods/flywheel.pw.toml"
-hash = "1fb77b30bb9c670b722889ddf1c37854857b4f69e3f1b5dc00b56e70bf73d853"
-metafile = true
-
-[[files]]
-file = "mods/jei.pw.toml"
-hash = "3e963187c3f080269bc97d3a419ab4b8395bc9fcb86e413f39658cae659b0990"
+hash = "ecf724b67501ed0a91109a1264aa6e803f6ea028e8fb6f6af3ca4ace790dc0d2"
 metafile = true
 
 [[files]]
 file = "mods/not-enough-animations.pw.toml"
-hash = "37e5260d712448aedead0286912d3453824d45effaef68364284afbff6c06909"
+hash = "805dded546acbf94889d96bceacb5496f7e84054dfd7a00b1970968522287ad1"
 metafile = true
 
 [[files]]
@@ -81,18 +76,23 @@ hash = "b69342578f4bbbb1cfa56fac4b2f57c7654de74bb01c49bd1cc49d6bb7bac219"
 metafile = true
 
 [[files]]
+file = "mods/roughly-enough-items.pw.toml"
+hash = "881c91d7f922844d3922004223bccd76feeb2c04963be86a42ac3ac950c3da1e"
+metafile = true
+
+[[files]]
 file = "mods/starlight-forge.pw.toml"
-hash = "cf0274e0db473a80ea8d8442362d3e7e76639018504b9ff37fa61aa6044b8a60"
+hash = "45e3cee1482b218c905eb2e2bcdbb15f4843039bffdcb0a7ce1a742aecbcb93e"
 metafile = true
 
 [[files]]
 file = "mods/twigs.pw.toml"
-hash = "51b7ba6e4a7c58cbbd28cc2ab96aa12b448afc835bb96a834ca7233b71ab16b5"
+hash = "456490e6c0532199615f7fd74956066c39b400dd1b9cdd05dc9566fa43d545c5"
 metafile = true
 
 [[files]]
 file = "mods/unforgiving-void.pw.toml"
-hash = "250b6f1a441980a7dfb614a9621402a1bd8818ff4990652e2ec5114c318ba115"
+hash = "2ef2a24e7062046d615cab41f0be1e797c913f9fe811a0fbe7d424285b07765e"
 metafile = true
 
 [[files]]
